@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "693958378371",
+    "firebase_url": "https://fir-idandmesssaging.firebaseio.com",
+    "project_id": "fir-idandmesssaging",
+    "storage_bucket": "fir-idandmesssaging.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693958378371:android:260fca83715a0abd",
+        "android_client_info": {
+          "package_name": "android.com.firebaseidandmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693958378371-i16o9b6jvugh0f4mvt0v6b8ti0h8k7uv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "android.com.firebaseidandmessaging",
+            "certificate_hash": "f07489e17a92cbd0970a05d701e08d1abc32c687"
+          }
+        },
+        {
+          "client_id": "693958378371-966gqmdisd7kto6r328dcajr35t6ju48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8kLqxblmSNIGCX9HoIyQgSDMWZWzICPk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693958378371-966gqmdisd7kto6r328dcajr35t6ju48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
